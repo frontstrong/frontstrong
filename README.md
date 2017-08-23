@@ -5,6 +5,6 @@ Como posso participar?
 
 1 - Crie um projeto no Github e começe a realizar o desafio proposto semanalmente.
 2 - Use o Github Pages para mostra o resultado (https://pages.github.com/).
-2 - No ao finalizar post 
+2 - Ao finalizar crie uma issues no repositório do desafio. 
 
 
