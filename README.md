@@ -1,4 +1,4 @@
-Como funciona?
+Como funciona?<br>
 O Desafio Front Strong vai ser realizado semanalmente, sempre sendo pequenos desafios.
 Pensando na evolução técnicas do grupo será realizado diversos desafios com o foco primordialmente em Javascript.
 <br>
